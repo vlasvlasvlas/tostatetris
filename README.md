@@ -9,6 +9,13 @@ This project explores themes of **collaboration**, **recycling**, and **hands-on
 
 ---
 
+## Watch Tostatetris in Action
+
+https://github.com/vlasvlasvlas/tostatetris/blob/main/videos/tostatetris-game.mp4
+
+
+---
+
 ## Genre  
 **Collaborative Interactive Game, Experimental Play Installation**  
 

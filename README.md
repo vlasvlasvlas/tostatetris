@@ -1,9 +1,15 @@
-# Tostatetris  
+# TostaTetris  
 **Tetris on Toast - A Collaborative Experiment**  
+
+
+
+#### 🎞️ WATCH THE VIDEO!  [TostaTetris in Action!](https://github.com/vlasvlasvlas/tostatetris/blob/main/media/tostatetris-game-1.mp4)  🎞️
+
+
 
 ![media/camphoto_1804928587.jpg](media/camphoto_1804928587.jpg)
 
-Tostatetris combines programming, creativity, and the reuse of everyday objects to create a collaborative and playful gaming experience. Using **Python with Pygame** and a **Makey Makey**, this project introduces a cooperative version of the classic Tetris game.  
+TostaTetris combines programming, creativity, and the reuse of everyday objects to create a collaborative and playful gaming experience. Using **Python with Pygame** and a **Makey Makey**, this project introduces a cooperative version of the classic Tetris game.  
 
 The **Makey Makey**, a device that transforms almost any object into an interactive controller, was integrated into an **old toaster**. The metal elements of the toaster were repurposed as touch-sensitive controls. By touching these metallic parts, two players can share the same screen and collaborate to play Tetris together.  
 

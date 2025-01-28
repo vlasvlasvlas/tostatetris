@@ -3,7 +3,7 @@
 
 
 
-#### 🎞️ WATCH THE VIDEO!  [TostaTetris in Action!](https://github.com/vlasvlasvlas/tostatetris/blob/main/media/tostatetris-game-1.mp4)  🎞️
+#### 🎞️ WATCH THE VIDEO!  [TostaTetris in Action!](https://drive.google.com/file/d/1NZAoAppYuWcub61zGuiiNpOEzgXBRsrT/view?usp=sharing)  🎞️
 
 
 

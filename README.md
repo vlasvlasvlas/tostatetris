@@ -74,3 +74,6 @@ Follow the project and updates:
 [Instagram Post](https://www.instagram.com/p/DDmf_GNOCWiImcdJpRexTr3deKa3saQhrpQExg0/)  
 
 ---
+## License
+
+MIT License — © 2026 [Vladimiro Bellini](https://github.com/vlasvlasvlas). Free to use and modify, attribution required.
